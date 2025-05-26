@@ -1,11 +1,13 @@
 # Data Transformation
 
-A Python-based tool for transforming raw datasets .
+- A Python-based tool for transforming raw datasets .
+  
 ---
 
 ## Overview
 
 This project provides a comprehensive pipeline for data preprocessing a. Users can perform essential data cleaning tasks like missing value imputation, and function transformation to make data normally distributed.
+
 ---
 
 ## Features

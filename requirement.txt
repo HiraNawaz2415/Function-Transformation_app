@@ -1,0 +1,5 @@
+  Python 3.8+
+  pip installpandas
+  pip install scikit-learn
+  pip install numpy
+  pip install matplotlib 
